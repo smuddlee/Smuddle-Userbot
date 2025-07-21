@@ -18,8 +18,8 @@ from AyiinXd import (
 )
 from AyiinXd.modules.gcast import GCAST_BLACKLIST as GBL
 
-EOL = "EOL\n𝗜𝗫𝗔𝗟𝗟-Userbot {} Copyright © 2021-2025 IXALLUSERBOT• <https://github.com/xallmean/xall>"
-MSG_BLACKLIST = "𝗜𝗫𝗔𝗟𝗟-Userbot {}\nCopyright © 2021-2025 IXALLUSERBOT• <https://github.com/xallmean/xall>"
+EOL = "EOL\n𝗦𝗺𝘂𝗱𝗱𝗹𝗲-Userbot {} Copyright © 2021-2025 SMUDDLEUSERBOT• <https://github.com/smuddlee/Smuddle-Userbot>"
+MSG_BLACKLIST = "𝗦𝗺𝘂𝗱𝗱𝗹𝗲-Userbot {}\nCopyright © 2021-2025 SMUDDLEUSERBOT• <https://github.com/smuddlee/Smuddle-Userbot>"
 
 
 async def ayiin_client(client):
